@@ -1,0 +1,6 @@
+{
+  "razor.disabled": true,
+  "FSharp.fsiExtraParameters": [
+    "--langversion:preview"
+  ]
+}
